@@ -1,8 +1,8 @@
 # Wie breit sind Wiens Fahrrad-Einbahnen?
 
-Berechnung und Visualisierung der (befahrbaren) Fahrbahnbreite von nicht für Fahrräder geöffneten Einbahnen in Wien.
+Berechnung und Visualisierung der (befahrbaren) Fahrbahnbreite von für Radfahrende nicht geöffneten Einbahnen in Wien.
 
-Datenbasis ist die Flächenmehrzweckkarte (FMZK) der MA 41 und der GIP-Straßengraph.
+Datenbasis ist die Flächen-Mehrzweckkarte (FMZK) der MA 41 und der GIP-Straßengraph.
 
 Weitere Infos im [Blogeintrag](https://elias-gander.github.io/2025-todo-wie-breit-sind-wiens-fahrrad-einbahnstrassen).
 
