@@ -1,0 +1,5 @@
+venv
+datasets/fmzk-parts/*
+datasets/gip-network.gpkg
+datasets/fmzk.gpkg
+.DS_Store
